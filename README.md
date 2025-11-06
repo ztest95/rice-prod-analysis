@@ -1,3 +1,5 @@
+<img src="luzon_map.png" alt="10 PAGASA Satellite Stations on North and Central Luzon" width="400" />
+
 # Rice Production Prediction
 
 Project files for a study on using machine learning to predict rice production, the filipino staple food of the Philippines. The study explores the relationship between climate variables and rice yields, using regression and time series forecasting models. PyCaret, an open-source Python library, was utilized to automate model selection and comparison, with the Extra Trees Regressor identified as the best-performing model. Climate forecasts were integrated into the models to predict future rice production over a six-year period, providing insights into how seasonal climate variations affect both irrigated and rainfed rice crops.
